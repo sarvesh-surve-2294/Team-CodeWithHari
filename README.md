@@ -2,7 +2,8 @@
 
 🚀 An AI-powered mock interview platform that uses speech-to-text, dynamic question generation, and automated evaluation to assess technical skills and communication abilities.
 
-🔗 Live Demo:
+🔗 Live Demo: [![Watch the video]]([https://your-video-link.com](https://drive.google.com/file/d/1EFrd5ocS6zBQ37EosSFXSE_F3_Zkgqqc/view?usp=sharing))
+
 
 Features
 ✅ Speech-to-Text (Gemini) – Converts spoken responses into text.
